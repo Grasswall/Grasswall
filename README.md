@@ -9,10 +9,9 @@
 ## 🎓 Education & Qualifications  
 
 ### **Hong Kong Polytechnic University (HKPolyU)**  
-**Ph.D. in [Field, e.g., Biochemistry/Drug Discovery]** | *State Key Laboratory of Chemical Biology and Drug Discovery*  
-`2022 – Present`  
-- Thesis: *[Title, e.g., "AI-Driven Biomolecular Discovery for Sustainable Applications"]*  
-- Advanced Techniques: High-throughput screening, LC-MS/MS, CRISPR-based protein interaction analysis.  
+**Ph.D. in [Field, Biochemistry/Drug Discovery]** | *State Key Laboratory of Chemical Biology and Drug Discovery*  
+`2023 – Present`  
+- Advanced Techniques: Cryo-EM, LC-MS/MS, CRISPR-based protein interaction analysis.  
 
 ### **Hong Kong University of Science and Technology (HKUST)**  
 **B.Sc. in Biochemistry & Cell Biology** | *Research Enrichment Track*  
@@ -25,7 +24,7 @@
   🏆 UROP Research Support Grant (2021)  
 - **Awards**:  
   🔬 Mr. Amin & Mrs. Lillian Kitchell Undergraduate Research Award (2021)  
-
+  🔬ABCT Outstanding Postgraduate Student Award(Teaching)
 ---
 
 ## 🚀 Featured Projects  
@@ -38,11 +37,11 @@
 - Pilot deployment in [Region] clinics reduced diagnosis delays by 60%.  
 **Tech**: PyTorch, Vision Transformers, Grad-CAM, NVIDIA Triton.  
 
-### ♻️ **EcoBrew**  
+### ♻️ **ReCherish Bean**  
 **ESG Startup | Upcycling Coffee Waste into Nutrient-Rich Tea**  
 [![HKSTP Grant](https://img.shields.io/badge/🏆-HKSTP%20Grant%20(100k)-brightgreen)](https://yourcompanylink.com)  
 - Developed AI-optimized fermentation protocols to extract bioactive compounds.  
-- Diverted **50+ tons/year** of waste; featured in [Media Name].  
+- Diverted **50+ tons/year** of waste; featured in WoFoo x Ecopreneur.  
 
 ---
 
