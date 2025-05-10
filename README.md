@@ -9,7 +9,7 @@
 ## 🎓 Education & Qualifications  
 
 ### **Hong Kong Polytechnic University (HKPolyU)**  
-**Ph.D. in [Field, Biochemistry/Drug Discovery]** | *State Key Laboratory of Chemical Biology and Drug Discovery*  
+**Ph.D. in [Cryo-EM / Drug Discovery]** | *State Key Laboratory of Chemical Biology and Drug Discovery*  
 `2023 – Present`  
 - Advanced Techniques: Cryo-EM, LC-MS/MS, CRISPR-based protein interaction analysis.  
 
