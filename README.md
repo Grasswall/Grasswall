@@ -17,7 +17,7 @@
 **B.Sc. in Biochemistry & Cell Biology** | *Research Enrichment Track*  
 - **Dean’s List** (Top 5% cohort) – *Awarded biannually*  
 - **Scholarships**:  
-  🏆 AEON Credit Service Scholarship 
+  🏆 AEON Credit Service Scholarship   
   🏆 MTR Corporate Scholarship   
   🏆 D.H. Chen Foundation Life Science Scholarship   
   🏆 UROP Research Support Grant 
