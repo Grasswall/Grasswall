@@ -92,6 +92,4 @@
 ---
 
 ## 📫 Let’s Collaborate!  
-- **Email**: [your.email@domain.com](mailto:your.email@domain.com)  
-- **Website**: [https://yourwebsite.com](https://yourwebsite.com)  
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
+- **Email**: [cheukhei-jackie.ng@connect.polyu.hk](cheukhei-jackie.ng@connect.polyu.hk)  
