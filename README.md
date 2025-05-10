@@ -10,21 +10,19 @@
 
 ### **Hong Kong Polytechnic University (HKPolyU)**  
 **Ph.D. in [Cryo-EM / Drug Discovery]** | *State Key Laboratory of Chemical Biology and Drug Discovery*  
-`2023 – Present`  
 - Advanced Techniques: Cryo-EM, LC-MS/MS, CRISPR-based protein interaction analysis.  
-
+- **Awards**:  
+  🔬ABCT Outstanding Postgraduate Student Award(Teaching)
 ### **Hong Kong University of Science and Technology (HKUST)**  
 **B.Sc. in Biochemistry & Cell Biology** | *Research Enrichment Track*  
-`2018 – 2022`  
-- **Dean’s List** (Top 5% cohort) – *Awarded annually from 2018 to 2022*  
+- **Dean’s List** (Top 5% cohort) – *Awarded biannually*  
 - **Scholarships**:  
-  🏆 AEON Credit Service Scholarship (2022)  
-  🏆 MTR Corporate Scholarship (2021)  
-  🏆 D.H. Chen Foundation Life Science Scholarship (2020)  
-  🏆 UROP Research Support Grant (2021)  
+  🏆 AEON Credit Service Scholarship 
+  🏆 MTR Corporate Scholarship   
+  🏆 D.H. Chen Foundation Life Science Scholarship   
+  🏆 UROP Research Support Grant 
 - **Awards**:  
-  🔬 Mr. Amin & Mrs. Lillian Kitchell Undergraduate Research Award (2021)  
-  🔬ABCT Outstanding Postgraduate Student Award(Teaching)
+  🔬 Mr. Amin & Mrs. Lillian Kitchell Undergraduate Research Award   
 ---
 
 ## 🚀 Featured Projects  
@@ -49,7 +47,7 @@
 **1. MediVision: A Self-Supervised ViT for Low-Resource Medical Imaging**  
 *Preprint, 2024* | [arXiv](https://arxiv.org/yourlink) | [Demo](https://colab.research.google.com/yourlink)  
 **2. Tang, X.**, Liu, Y., et al. (2024). *Journal of Biological Chemistry*  
-- **Impact**: Discovered novel SARS-CoV-2 spike protein interactions via CRISPR screening.  
+- **Impact**: Discovered novel SARS-CoV-2 spike protein interactions.  
 - **DOI**: [10.1016/j.jbc.2024.107390](https://doi.org/10.1016/j.jbc.2024.107390)  
 
 ---
