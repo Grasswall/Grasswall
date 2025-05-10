@@ -29,7 +29,7 @@
 
 ### 🩺 **MediVision**  
 **Self-Supervised Interpretable ViT for Early Disease Detection**  
-[![GitHub Stars](https://github.com/Grasswall/MediVision)  
+[![GitHub Stars]](https://github.com/Grasswall/MediVision)  
 [![Paper](https://img.shields.io/badge/📄-Preprint-orange)](https://arxiv.org/yourlink)  
 - Achieved **94% AUC-ROC** on NIH Chest X-ray with 80% less labeled data.  
 - Pilot deployment in [Region] clinics reduced diagnosis delays by 60%.  
