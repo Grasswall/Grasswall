@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jackie
+# NG Cheuk Hei, Jackie
 **PhD Candidate | AI Researcher & ESG Entrepreneur**  
 *Bridging Biomolecular Science, AI, and Sustainable Innovation*  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
