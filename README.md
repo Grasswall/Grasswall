@@ -1,36 +1,97 @@
-# 👋 Hi, I'm Jackie NG
-**Biochemist & AI Researcher | Bridging Sustainable Innovation and Healthcare Equity**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![ESG Startup](https://img.shields.io/badge/🌱-ESG%20Startup-green)](https://yourcompanywebsite.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-informational?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+# 👋 Hi, I'm Jackie
+**PhD Candidate | AI Researcher & ESG Entrepreneur**  
+*Bridging Biomolecular Science, AI, and Sustainable Innovation*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Email](https://img.shields.io/badge/📧-Email%20Me-red)](mailto:your.email@domain.com)  
 
 ---
 
-## 🚀 Projects  
+## 🎓 Education & Qualifications  
+
+### **Hong Kong Polytechnic University (HKPolyU)**  
+**Ph.D. in [Field, e.g., Biochemistry/Drug Discovery]** | *State Key Laboratory of Chemical Biology and Drug Discovery*  
+`2022 – Present`  
+- Thesis: *[Title, e.g., "AI-Driven Biomolecular Discovery for Sustainable Applications"]*  
+- Advanced Techniques: High-throughput screening, LC-MS/MS, CRISPR-based protein interaction analysis.  
+
+### **Hong Kong University of Science and Technology (HKUST)**  
+**B.Sc. in Biochemistry & Cell Biology** | *Research Enrichment Track*  
+`2018 – 2022`  
+- **Dean’s List** (Top 5% cohort) – *Awarded annually from 2018 to 2022*  
+- **Scholarships**:  
+  🏆 AEON Credit Service Scholarship (2022)  
+  🏆 MTR Corporate Scholarship (2021)  
+  🏆 D.H. Chen Foundation Life Science Scholarship (2020)  
+  🏆 UROP Research Support Grant (2021)  
+- **Awards**:  
+  🔬 Mr. Amin & Mrs. Lillian Kitchell Undergraduate Research Award (2021)  
+
+---
+
+## 🚀 Featured Projects  
 
 ### 🩺 **MediVision**  
-**Self-Supervised Interpretable Vision Transformer (ViT) for Early Disease Detection**  
+**Self-Supervised Interpretable ViT for Early Disease Detection**  
 [![GitHub Stars](https://img.shields.io/github/stars/yourusername/medivision?style=social)](https://github.com/yourusername/medivision)  
 [![Paper](https://img.shields.io/badge/📄-Preprint-orange)](https://arxiv.org/yourlink)  
-[![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)  
+- Achieved **94% AUC-ROC** on NIH Chest X-ray with 80% less labeled data.  
+- Pilot deployment in [Region] clinics reduced diagnosis delays by 60%.  
+**Tech**: PyTorch, Vision Transformers, Grad-CAM, NVIDIA Triton.  
 
-**Problem**: Over 75% of low-resource clinics lack tools for early diagnosis of lung cancer, diabetic retinopathy, and other critical diseases.  
+### ♻️ **EcoBrew**  
+**ESG Startup | Upcycling Coffee Waste into Nutrient-Rich Tea**  
+[![HKSTP Grant](https://img.shields.io/badge/🏆-HKSTP%20Grant%20(100k)-brightgreen)](https://yourcompanylink.com)  
+- Developed AI-optimized fermentation protocols to extract bioactive compounds.  
+- Diverted **50+ tons/year** of waste; featured in [Media Name].  
 
-**Solution**:  
-- **Self-Supervised Pretraining**: Trained on 500k+ unlabeled medical images (CT scans, fundus photos) using masked autoencoding ([MAE](https://arxiv.org/abs/2111.06377)).  
-- **Interpretable Attention**: Visualize ViT attention maps to highlight lesion regions (e.g., lung nodules, microaneurysms) for clinician trust.  
-- **Low-Resource Deployment**: Optimized for <2GB VRAM GPUs; achieves **94% AUC-ROC** on NIH Chest X-ray (Top 5% benchmark).  
+---
 
-**Tech Stack**:  
-```python
-# Model Architecture
-from vit import VisionTransformer
-model = VisionTransformer(
-    img_size=224, 
-    patch_size=16, 
-    embed_dim=768, 
-    depth=12, 
-    num_heads=12,
-    qkv_bias=True,
-    use_grad_cam=True  # Enable interpretability
-)
+## 📜 Publications  
+**1. MediVision: A Self-Supervised ViT for Low-Resource Medical Imaging**  
+*Preprint, 2024* | [arXiv](https://arxiv.org/yourlink) | [Demo](https://colab.research.google.com/yourlink)  
+**2. Tang, X.**, Liu, Y., et al. (2024). *Journal of Biological Chemistry*  
+- **Impact**: Discovered novel SARS-CoV-2 spike protein interactions via CRISPR screening.  
+- **DOI**: [10.1016/j.jbc.2024.107390](https://doi.org/10.1016/j.jbc.2024.107390)  
+
+---
+
+## 🏆 Awards & Honors  
+| Award | Year |  
+|-------|------|  
+| **Dean’s List (HKUST)** | 2018–2022 |  
+| **AEON Credit Service Scholarship** | 2022 |  
+| **MTR Corporate Scholarship** | 2021 |  
+| **D.H. Chen Foundation Life Science Scholarship** | 2020 |  
+| **Kitchell Undergraduate Research Award** | 2021 |  
+| **HKSTP Grant (HK$100K+)** | 2023 |  
+
+---
+
+## 🔧 Skills  
+**AI/ML**:  
+- Vision Transformers | Self-Supervised Learning | Medical Imaging (CT/X-ray)  
+- PyTorch | TensorFlow | NVIDIA Triton  
+
+**Biotech**:  
+- CRISPR Screening | Protein Interaction Analysis | LC-MS/MS  
+- Circular Economy Design | Waste Valorization  
+
+**Tools**:  
+- Python | R | MATLAB | Schrödinger Suite  
+
+**Languages**:  
+- English (Fluent) | Mandarin (Fluent) | Cantonese (Native)  
+
+---
+
+## 🌟 Leadership & Affiliations  
+- **Mentor**, HKUST Entrepreneurship Center  
+- **Member**, Hong Kong Society for Biochemistry & Molecular Biology  
+- **Speaker**, [Conference/Event Name] on AI for Healthcare Equity  
+
+---
+
+## 📫 Let’s Collaborate!  
+- **Email**: [your.email@domain.com](mailto:your.email@domain.com)  
+- **Website**: [https://yourwebsite.com](https://yourwebsite.com)  
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
