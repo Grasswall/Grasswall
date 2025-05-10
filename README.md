@@ -50,17 +50,6 @@
 - **Impact**: Discovered novel SARS-CoV-2 spike protein interactions.  
 - **DOI**: [10.1016/j.jbc.2024.107390](https://doi.org/10.1016/j.jbc.2024.107390)  
 
----
-
-## 🏆 Awards & Honors  
-| Award | Year |  
-|-------|------|  
-| **Dean’s List (HKUST)** | 2018–2022 |  
-| **AEON Credit Service Scholarship** | 2022 |  
-| **MTR Corporate Scholarship** | 2021 |  
-| **D.H. Chen Foundation Life Science Scholarship** | 2020 |  
-| **Kitchell Undergraduate Research Award** | 2021 |  
-| **HKSTP Grant (HK$100K+)** | 2023 |  
 
 ---
 
@@ -83,8 +72,9 @@
 
 ## 🌟 Leadership & Affiliations  
 - **Mentor**, HKUST Entrepreneurship Center  
-- **Member**, Hong Kong Society for Biochemistry & Molecular Biology  
-- **Speaker**, [Conference/Event Name] on AI for Healthcare Equity  
+- **Member**, Hong Kong Institute of Science
+- **Member**, American Society of Biochemistry and Molecular Biology
+- **Speaker**, 5th ABCT RPG Symposium in Biology Discipline on AI for Healthcare Equity  
 
 ---
 
