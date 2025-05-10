@@ -2,7 +2,7 @@
 **PhD Candidate | AI Researcher & ESG Entrepreneur**  
 *Bridging Biomolecular Science, AI, and Sustainable Innovation*  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/📧-Email%20Me-red)](mailto:your.email@domain.com)  
+[![Email](https://img.shields.io/badge/📧-Email%20Me-red)](mailto:cheukhei-jackie.ng@connect.polyu.hk)  
 
 ---
 
